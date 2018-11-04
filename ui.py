@@ -36,7 +36,7 @@ def b01():
 
 
 def b02():
-    bv01.set("1")
+    bv02.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -48,7 +48,7 @@ def b02():
 
 
 def b03():
-    bv01.set("1")
+    bv03.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -60,7 +60,7 @@ def b03():
 
 
 def b04():
-    bv01.set("1")
+    bv04.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -72,7 +72,7 @@ def b04():
 
 
 def b05():
-    bv01.set("1")
+    bv05.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -84,7 +84,7 @@ def b05():
 
 
 def b06():
-    bv01.set("1")
+    bv06.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -96,7 +96,7 @@ def b06():
 
 
 def b07():
-    bv01.set("1")
+    bv07.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -108,7 +108,7 @@ def b07():
 
 
 def b08():
-    bv01.set("1")
+    bv08.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -120,7 +120,7 @@ def b08():
 
 
 def b09():
-    bv01.set("1")
+    bv09.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -132,7 +132,7 @@ def b09():
 
 
 def b10():
-    bv01.set("1")
+    bv10.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -144,7 +144,7 @@ def b10():
 
 
 def b11():
-    bv01.set("1")
+    bv11.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -156,7 +156,7 @@ def b11():
 
 
 def b12():
-    bv01.set("1")
+    bv12.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -168,7 +168,7 @@ def b12():
 
 
 def b13():
-    bv01.set("1")
+    bv13.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -180,7 +180,7 @@ def b13():
 
 
 def b14():
-    bv01.set("1")
+    bv14.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -192,7 +192,7 @@ def b14():
 
 
 def b15():
-    bv01.set("1")
+    bv15.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -204,7 +204,7 @@ def b15():
 
 
 def b16():
-    bv01.set("1")
+    bv16.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -216,7 +216,7 @@ def b16():
 
 
 def b17():
-    bv01.set("1")
+    bv17.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -228,7 +228,7 @@ def b17():
 
 
 def b18():
-    bv01.set("1")
+    bv18.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -240,7 +240,7 @@ def b18():
 
 
 def b19():
-    bv01.set("1")
+    bv19.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -252,7 +252,7 @@ def b19():
 
 
 def b20():
-    bv01.set("1")
+    bv20.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -264,7 +264,7 @@ def b20():
 
 
 def b21():
-    bv01.set("1")
+    bv21.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -276,7 +276,7 @@ def b21():
 
 
 def b22():
-    bv01.set("1")
+    bv22.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -288,7 +288,7 @@ def b22():
 
 
 def b23():
-    bv01.set("1")
+    bv23.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -300,7 +300,7 @@ def b23():
 
 
 def b24():
-    bv01.set("1")
+    bv24.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -312,7 +312,7 @@ def b24():
 
 
 def b25():
-    bv01.set("1")
+    bv25.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -324,7 +324,7 @@ def b25():
 
 
 def b26():
-    bv01.set("1")
+    bv26.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -336,7 +336,7 @@ def b26():
 
 
 def b27():
-    bv01.set("1")
+    bv27.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -348,7 +348,7 @@ def b27():
 
 
 def b28():
-    bv01.set("1")
+    bv28.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -360,7 +360,7 @@ def b28():
 
 
 def b29():
-    bv01.set("1")
+    bv29.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -372,7 +372,7 @@ def b29():
 
 
 def b30():
-    bv01.set("1")
+    bv30.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -384,7 +384,7 @@ def b30():
 
 
 def b31():
-    bv01.set("1")
+    bv31.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -396,7 +396,7 @@ def b31():
 
 
 def b32():
-    bv01.set("1")
+    bv32.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -408,7 +408,7 @@ def b32():
 
 
 def b33():
-    bv01.set("1")
+    bv33.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -420,7 +420,7 @@ def b33():
 
 
 def b34():
-    bv01.set("1")
+    bv34.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -432,7 +432,7 @@ def b34():
 
 
 def b35():
-    bv01.set("1")
+    bv35.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -444,7 +444,7 @@ def b35():
 
 
 def b36():
-    bv01.set("1")
+    bv36.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -456,7 +456,7 @@ def b36():
 
 
 def b37():
-    bv01.set("1")
+    bv37.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -468,7 +468,7 @@ def b37():
 
 
 def b38():
-    bv01.set("1")
+    bv38.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -480,7 +480,7 @@ def b38():
 
 
 def b39():
-    bv01.set("1")
+    bv39.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -492,7 +492,7 @@ def b39():
 
 
 def b40():
-    bv01.set("1")
+    bv40.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -504,7 +504,7 @@ def b40():
 
 
 def b41():
-    bv01.set("1")
+    bv41.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -516,7 +516,7 @@ def b41():
 
 
 def b42():
-    bv01.set("1")
+    bv42.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -528,7 +528,7 @@ def b42():
 
 
 def b43():
-    bv01.set("1")
+    bv43.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -540,7 +540,7 @@ def b43():
 
 
 def b44():
-    bv01.set("1")
+    bv44.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -552,7 +552,7 @@ def b44():
 
 
 def b45():
-    bv01.set("1")
+    bv45.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -564,7 +564,7 @@ def b45():
 
 
 def b46():
-    bv01.set("1")
+    bv46.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -576,7 +576,7 @@ def b46():
 
 
 def b47():
-    bv01.set("1")
+    bv47.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -588,7 +588,7 @@ def b47():
 
 
 def b48():
-    bv01.set("1")
+    bv48.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -600,7 +600,7 @@ def b48():
 
 
 def b49():
-    bv01.set("1")
+    bv49.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -612,7 +612,7 @@ def b49():
 
 
 def b50():
-    bv01.set("1")
+    bv50.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -624,7 +624,7 @@ def b50():
 
 
 def b51():
-    bv01.set("1")
+    bv51.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -636,7 +636,7 @@ def b51():
 
 
 def b52():
-    bv01.set("1")
+    bv52.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -648,7 +648,7 @@ def b52():
 
 
 def b53():
-    bv01.set("1")
+    bv53.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -660,7 +660,7 @@ def b53():
 
 
 def b54():
-    bv01.set("1")
+    bv54.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -672,7 +672,7 @@ def b54():
 
 
 def b55():
-    bv01.set("1")
+    bv55.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -684,7 +684,7 @@ def b55():
 
 
 def b56():
-    bv01.set("1")
+    bv56.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -696,7 +696,7 @@ def b56():
 
 
 def b57():
-    bv01.set("1")
+    bv57.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -708,7 +708,7 @@ def b57():
 
 
 def b58():
-    bv01.set("1")
+    bv58.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -720,7 +720,7 @@ def b58():
 
 
 def b59():
-    bv01.set("1")
+    bv59.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -732,7 +732,7 @@ def b59():
 
 
 def b60():
-    bv01.set("1")
+    bv60.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -744,7 +744,7 @@ def b60():
 
 
 def b61():
-    bv01.set("1")
+    bv61.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -756,7 +756,7 @@ def b61():
 
 
 def b62():
-    bv01.set("1")
+    bv62.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -768,7 +768,7 @@ def b62():
 
 
 def b63():
-    bv01.set("1")
+    bv63.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -780,7 +780,7 @@ def b63():
 
 
 def b64():
-    bv01.set("1")
+    bv64.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -792,7 +792,7 @@ def b64():
 
 
 def b65():
-    bv01.set("1")
+    bv65.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -804,7 +804,7 @@ def b65():
 
 
 def b66():
-    bv01.set("1")
+    bv66.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -816,7 +816,7 @@ def b66():
 
 
 def b67():
-    bv01.set("1")
+    bv67.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -828,7 +828,7 @@ def b67():
 
 
 def b68():
-    bv01.set("1")
+    bv68.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -840,7 +840,7 @@ def b68():
 
 
 def b69():
-    bv01.set("1")
+    bv69.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -852,7 +852,7 @@ def b69():
 
 
 def b70():
-    bv01.set("1")
+    bv70.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -864,7 +864,7 @@ def b70():
 
 
 def b71():
-    bv01.set("1")
+    bv72.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -876,7 +876,7 @@ def b71():
 
 
 def b72():
-    bv01.set("1")
+    bv72.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -888,7 +888,7 @@ def b72():
 
 
 def b73():
-    bv01.set("1")
+    bv73.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -900,7 +900,7 @@ def b73():
 
 
 def b74():
-    bv01.set("1")
+    bv74.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -912,7 +912,7 @@ def b74():
 
 
 def b75():
-    bv01.set("1")
+    bv75.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -924,7 +924,7 @@ def b75():
 
 
 def b76():
-    bv01.set("1")
+    bv76.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -936,7 +936,7 @@ def b76():
 
 
 def b77():
-    bv01.set("1")
+    bv77.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -948,7 +948,7 @@ def b77():
 
 
 def b78():
-    bv01.set("1")
+    bv78.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -960,7 +960,7 @@ def b78():
 
 
 def b79():
-    bv01.set("1")
+    bv79.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -972,7 +972,7 @@ def b79():
 
 
 def b80():
-    bv01.set("1")
+    bv80.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -984,7 +984,7 @@ def b80():
 
 
 def b81():
-    bv01.set("1")
+    bv81.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -996,7 +996,7 @@ def b81():
 
 
 def b82():
-    bv01.set("1")
+    bv82.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1008,7 +1008,7 @@ def b82():
 
 
 def b83():
-    bv01.set("1")
+    bv83.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1020,7 +1020,7 @@ def b83():
 
 
 def b84():
-    bv01.set("1")
+    bv84.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1032,7 +1032,7 @@ def b84():
 
 
 def b85():
-    bv01.set("1")
+    bv85.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1044,7 +1044,7 @@ def b85():
 
 
 def b86():
-    bv01.set("1")
+    bv86.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1056,7 +1056,7 @@ def b86():
 
 
 def b87():
-    bv01.set("1")
+    bv87.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1068,7 +1068,7 @@ def b87():
 
 
 def b88():
-    bv01.set("1")
+    bv88.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1081,7 +1081,7 @@ def b88():
 
 
 def b89():
-    bv01.set("1")
+    bv89.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1093,7 +1093,7 @@ def b89():
 
 
 def b90():
-    bv01.set("1")
+    bv90.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1105,7 +1105,7 @@ def b90():
 
 
 def b91():
-    bv01.set("1")
+    bv91.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1117,7 +1117,7 @@ def b91():
 
 
 def b92():
-    bv01.set("1")
+    bv92.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1129,7 +1129,7 @@ def b92():
 
 
 def b93():
-    bv01.set("1")
+    bv93.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1141,7 +1141,7 @@ def b93():
 
 
 def b94():
-    bv01.set("1")
+    bv94.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1153,7 +1153,7 @@ def b94():
 
 
 def b95():
-    bv01.set("1")
+    bv95.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1165,7 +1165,7 @@ def b95():
 
 
 def b96():
-    bv01.set("1")
+    bv96.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1177,7 +1177,7 @@ def b96():
 
 
 def b97():
-    bv01.set("1")
+    bv97.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1189,7 +1189,7 @@ def b97():
 
 
 def b98():
-    bv01.set("1")
+    bv98.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1201,7 +1201,7 @@ def b98():
 
 
 def b99():
-    bv01.set("1")
+    bv99.set("1")
     move_value = game_board.positive_move(0, 0)
     while (move_value == 9):
         print("Entered valued are ocupied by other player")
@@ -1315,104 +1315,104 @@ bv99=StringVar()
 
 btn00 = Button(frame, textvariable=bv00, command=b00, height=3, width=6)
 btn01 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn02 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn03= Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn04= Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn05 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn06 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn07 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn08 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn09 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn10 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn11 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn12 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn13 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn14 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn15 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn16 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn17 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn18 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn19 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn20 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn21 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn22 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn23 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn24 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn25 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn26 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn27 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn28 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn29 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn30 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn31 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn32 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn33 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn34 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn35 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn36 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn37 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn38 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn39 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn40 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn41 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn42 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn43 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn44 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn45 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn46 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn47 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn48 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn49 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn50 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn51 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn52 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn53 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn54 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn55 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn56 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn57 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn58 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn59 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn60 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn61 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn62 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn63 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn64 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn65 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn66 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn67 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn68 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn69 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn70 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn71 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn72 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn73 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn74 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn75 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn76 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn77 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn78 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn79 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn80 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn81 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn82 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn83 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn84 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn85 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn86 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn87 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn88 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn89 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn90 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn91 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn92 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn93 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn94 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn95 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn96 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn97 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn98 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
-btn99 = Button(frame, textvariable=bv01, command=b01, height=3, width=6)
+btn02 = Button(frame, textvariable=bv02, command=b01, height=3, width=6)
+btn03= Button(frame, textvariable=bv03, command=b01, height=3, width=6)
+btn04= Button(frame, textvariable=bv04, command=b01, height=3, width=6)
+btn05 = Button(frame, textvariable=bv05, command=b01, height=3, width=6)
+btn06 = Button(frame, textvariable=bv06, command=b01, height=3, width=6)
+btn07 = Button(frame, textvariable=bv07, command=b01, height=3, width=6)
+btn08 = Button(frame, textvariable=bv08, command=b01, height=3, width=6)
+btn09 = Button(frame, textvariable=bv09, command=b01, height=3, width=6)
+btn10 = Button(frame, textvariable=bv10, command=b01, height=3, width=6)
+btn11 = Button(frame, textvariable=bv11, command=b01, height=3, width=6)
+btn12 = Button(frame, textvariable=bv12, command=b01, height=3, width=6)
+btn13 = Button(frame, textvariable=bv13, command=b01, height=3, width=6)
+btn14 = Button(frame, textvariable=bv14, command=b01, height=3, width=6)
+btn15 = Button(frame, textvariable=bv15, command=b01, height=3, width=6)
+btn16 = Button(frame, textvariable=bv16, command=b01, height=3, width=6)
+btn17 = Button(frame, textvariable=bv17, command=b01, height=3, width=6)
+btn18 = Button(frame, textvariable=bv18, command=b01, height=3, width=6)
+btn19 = Button(frame, textvariable=bv19, command=b01, height=3, width=6)
+btn20 = Button(frame, textvariable=bv20, command=b01, height=3, width=6)
+btn21 = Button(frame, textvariable=bv21, command=b01, height=3, width=6)
+btn22 = Button(frame, textvariable=bv22, command=b01, height=3, width=6)
+btn23 = Button(frame, textvariable=bv23, command=b01, height=3, width=6)
+btn24 = Button(frame, textvariable=bv24, command=b01, height=3, width=6)
+btn25 = Button(frame, textvariable=bv25, command=b01, height=3, width=6)
+btn26 = Button(frame, textvariable=bv26, command=b01, height=3, width=6)
+btn27 = Button(frame, textvariable=bv26, command=b01, height=3, width=6)
+btn28 = Button(frame, textvariable=bv28, command=b01, height=3, width=6)
+btn29 = Button(frame, textvariable=bv29, command=b01, height=3, width=6)
+btn30 = Button(frame, textvariable=bv30, command=b01, height=3, width=6)
+btn31 = Button(frame, textvariable=bv31, command=b01, height=3, width=6)
+btn32 = Button(frame, textvariable=bv32, command=b01, height=3, width=6)
+btn33 = Button(frame, textvariable=bv33, command=b01, height=3, width=6)
+btn34 = Button(frame, textvariable=bv34, command=b01, height=3, width=6)
+btn35 = Button(frame, textvariable=bv35, command=b01, height=3, width=6)
+btn36 = Button(frame, textvariable=bv36, command=b01, height=3, width=6)
+btn37 = Button(frame, textvariable=bv37, command=b01, height=3, width=6)
+btn38 = Button(frame, textvariable=bv38, command=b01, height=3, width=6)
+btn39 = Button(frame, textvariable=bv39, command=b01, height=3, width=6)
+btn40 = Button(frame, textvariable=bv40, command=b01, height=3, width=6)
+btn41 = Button(frame, textvariable=bv41, command=b01, height=3, width=6)
+btn42 = Button(frame, textvariable=bv42, command=b01, height=3, width=6)
+btn43 = Button(frame, textvariable=bv43, command=b01, height=3, width=6)
+btn44 = Button(frame, textvariable=bv44, command=b01, height=3, width=6)
+btn45 = Button(frame, textvariable=bv45, command=b01, height=3, width=6)
+btn46 = Button(frame, textvariable=bv46, command=b01, height=3, width=6)
+btn47 = Button(frame, textvariable=bv47, command=b01, height=3, width=6)
+btn48 = Button(frame, textvariable=bv48, command=b01, height=3, width=6)
+btn49 = Button(frame, textvariable=bv49, command=b01, height=3, width=6)
+btn50 = Button(frame, textvariable=bv50, command=b01, height=3, width=6)
+btn51 = Button(frame, textvariable=bv51, command=b01, height=3, width=6)
+btn52 = Button(frame, textvariable=bv52, command=b01, height=3, width=6)
+btn53 = Button(frame, textvariable=bv53, command=b01, height=3, width=6)
+btn54 = Button(frame, textvariable=bv54, command=b01, height=3, width=6)
+btn55 = Button(frame, textvariable=bv55, command=b01, height=3, width=6)
+btn56 = Button(frame, textvariable=bv56, command=b01, height=3, width=6)
+btn57 = Button(frame, textvariable=bv57, command=b01, height=3, width=6)
+btn58 = Button(frame, textvariable=bv58, command=b01, height=3, width=6)
+btn59 = Button(frame, textvariable=bv59, command=b01, height=3, width=6)
+btn60 = Button(frame, textvariable=bv60, command=b01, height=3, width=6)
+btn61 = Button(frame, textvariable=bv61, command=b01, height=3, width=6)
+btn62 = Button(frame, textvariable=bv62, command=b01, height=3, width=6)
+btn63 = Button(frame, textvariable=bv63, command=b01, height=3, width=6)
+btn64 = Button(frame, textvariable=bv64, command=b01, height=3, width=6)
+btn65 = Button(frame, textvariable=bv65, command=b01, height=3, width=6)
+btn66 = Button(frame, textvariable=bv66, command=b01, height=3, width=6)
+btn67 = Button(frame, textvariable=bv67, command=b01, height=3, width=6)
+btn68 = Button(frame, textvariable=bv68, command=b01, height=3, width=6)
+btn69 = Button(frame, textvariable=bv69, command=b01, height=3, width=6)
+btn70 = Button(frame, textvariable=bv70, command=b01, height=3, width=6)
+btn71 = Button(frame, textvariable=bv71, command=b01, height=3, width=6)
+btn72 = Button(frame, textvariable=bv72, command=b01, height=3, width=6)
+btn73 = Button(frame, textvariable=bv73, command=b01, height=3, width=6)
+btn74 = Button(frame, textvariable=bv74, command=b01, height=3, width=6)
+btn75 = Button(frame, textvariable=bv75, command=b01, height=3, width=6)
+btn76 = Button(frame, textvariable=bv76, command=b01, height=3, width=6)
+btn77 = Button(frame, textvariable=bv77, command=b01, height=3, width=6)
+btn78 = Button(frame, textvariable=bv78, command=b01, height=3, width=6)
+btn79 = Button(frame, textvariable=bv79, command=b01, height=3, width=6)
+btn80 = Button(frame, textvariable=bv80, command=b01, height=3, width=6)
+btn81 = Button(frame, textvariable=bv81, command=b01, height=3, width=6)
+btn82 = Button(frame, textvariable=bv82, command=b01, height=3, width=6)
+btn83 = Button(frame, textvariable=bv83, command=b01, height=3, width=6)
+btn84 = Button(frame, textvariable=bv84, command=b01, height=3, width=6)
+btn85 = Button(frame, textvariable=bv85, command=b01, height=3, width=6)
+btn86 = Button(frame, textvariable=bv86, command=b01, height=3, width=6)
+btn87 = Button(frame, textvariable=bv87, command=b01, height=3, width=6)
+btn88 = Button(frame, textvariable=bv88, command=b01, height=3, width=6)
+btn89 = Button(frame, textvariable=bv89, command=b01, height=3, width=6)
+btn90 = Button(frame, textvariable=bv90, command=b01, height=3, width=6)
+btn91 = Button(frame, textvariable=bv91, command=b01, height=3, width=6)
+btn92 = Button(frame, textvariable=bv92, command=b01, height=3, width=6)
+btn93 = Button(frame, textvariable=bv93, command=b01, height=3, width=6)
+btn94 = Button(frame, textvariable=bv94, command=b01, height=3, width=6)
+btn95 = Button(frame, textvariable=bv95, command=b01, height=3, width=6)
+btn96 = Button(frame, textvariable=bv96, command=b01, height=3, width=6)
+btn97 = Button(frame, textvariable=bv97, command=b01, height=3, width=6)
+btn98 = Button(frame, textvariable=bv98, command=b01, height=3, width=6)
+btn99 = Button(frame, textvariable=bv99, command=b01, height=3, width=6)
 
 
 
