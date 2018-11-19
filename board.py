@@ -79,10 +79,3 @@ class Board:
                 points.extend(neighbours)
             points.remove((row, column))
         return
-
-
-
-###hetvi  shah
-
-
-##hetvi
